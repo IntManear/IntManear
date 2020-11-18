@@ -43,7 +43,7 @@
 <img align="left" alt="intmanear's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntManear&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/intmanear
-[instagram]: https://www.instagram.com/dhruv.x_x/
+[instagram]: https://www.instagram.com/dhruvscorruptedmind/
 [linkedin]: https://linkedin.com/in/intmanear
 [mail]: mailto:intmanear@gmail
 [spotify]: https://open.spotify.com/user/nugwwynix066x50o3yvn8d2l8?si=V4-GHrO0S6GvQm0pUnUMLA
