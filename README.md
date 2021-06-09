@@ -3,7 +3,7 @@
 ## I'm a Student, Researcher, and a Developer!
 - 🔭 I’m currently working on a side venture with my team!
 - 🌱 I’m currently learning everything 
-- 🥅 2020 Goals: Get well acquainted with the world of securities trading
+- 🥅 2021 Goals: Get well acquainted with the world of securities trading
 - ⚡ Fun fact: I'm an audiophile and into sneakers
 - Wanna know more about me? Just search "intmanear" on Google!
 
