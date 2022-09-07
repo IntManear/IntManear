@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhruv (Pseudonym - IntManear) 👋
 
-## I'm a Founder, Designer, and investor!
+## I'm a Founder, Designer, and Investor!
 - 🔭 I’m currently building Paperplane!
 - 🌱 I’m currently learning Venture Investing 
 - 🥅 2022 Goals: Start writing 100 words a day, everyday
