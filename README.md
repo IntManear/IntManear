@@ -1,9 +1,9 @@
-### Hi there, I'm Dhruv - aka IntManear 👋
+### Hi there, I'm Dhruv (Pseudonym - IntManear) 👋
 
-## I'm a Student, Researcher, and a Developer!
-- 🔭 I’m currently working on a side venture with my team!
-- 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Get well acquainted with the world of securities trading
+## I'm a Founder, Designer, and investor!
+- 🔭 I’m currently building Paperplane!
+- 🌱 I’m currently learning Venture Investing 
+- 🥅 2022 Goals: Start writing 100 words a day, everyday
 - ⚡ Fun fact: I'm an audiophile and into sneakers
 - Wanna know more about me? Just search "intmanear" on Google!
 
